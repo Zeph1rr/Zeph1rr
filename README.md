@@ -18,6 +18,7 @@
 
 ### Games
 - [Twenty points to win](https://github.com/Zeph1rr/TPTW-Setup "Game") и [и ее исходный код](https://github.com/Zeph1rr/TPTW-Code "Исходный код")
+- [AirHockey](https://github.com/Zeph1rr/Airhockey/tree/master "Игра и код")
 
 
 ### Labs:
