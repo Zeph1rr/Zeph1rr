@@ -1,9 +1,13 @@
+# Information
+
+## About me
+
 - 👋 Hi, I’m @Zeph1rr
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-# Navigation
+## Navigation
 
 
 ### My site
