@@ -6,7 +6,7 @@
 # Navigation
 
 
-### My siteL
+### My site
 - [Исходный код](https://github.com/Zeph1rr/Zeph1rr.local "Исходный код")
 
 ### Games
