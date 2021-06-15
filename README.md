@@ -2,11 +2,14 @@
 
 ## About me
 
-- 👋 Hi, I’m @Zeph1rr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anton Grigorev, my nickname is Zeph1rr. I'm studying at the university and trying to make my skills in programming better.
+- 👀 I'm interested in all kinds of development.
+- 🌱 I'm currently learning various programming and layout languages, like python or HTML5
+- 📫 How to reach me:
+  - E-mail: grianton535@gmail.com
+  - Discord: Zeph1rrio#9888
+  - VK: https://vk.com/zeph1rr
+
 ## Navigation
 
 
