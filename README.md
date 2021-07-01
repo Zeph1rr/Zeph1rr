@@ -24,6 +24,7 @@
 ### Labs:
 - [Операционные системы](https://github.com/Zeph1rr/LabsOS "Лабораторные работы по ОС 2 курс РТУ МИРЭА")
 - [My Defence Databace gui](https://github.com/Zeph1rr/MyDefence "Все файлы сервера")
+- [Организация компьютерных сетей](https://github.com/Zeph1rr/Labs_web "Лабораторные работы по сетям 3 курс РТУ МИРЭА")
 
 ### Courseworks:
 - [Курсовой проект по базам данных по теме "Учет преступлений в сфере информационных технологий"](https://github.com/Zeph1rr/WebCrime "Курсовой проект по бд")
