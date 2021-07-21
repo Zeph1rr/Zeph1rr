@@ -14,7 +14,7 @@
 
 
 ### My site
-- [Сам сайт](http://zeph1rr.ru/) и его [исходный код](https://github.com/Zeph1rr/Zeph1rr.local "Исходный код") 
+- [Мой сайт](https://www.zeph1rr.ru/)
 
 ### Games
 - [Twenty points to win](https://github.com/Zeph1rr/TPTW-Setup "Game") и [и ее исходный код](https://github.com/Zeph1rr/TPTW-Code "Исходный код")
