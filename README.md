@@ -21,10 +21,11 @@
 
 
 ### Labs:
-- [Операционные системы](https://github.com/Zeph1rr/LabsOS "Лабораторные работы по ОС 2 курс РТУ МИРЭА")
-- [My Defence Databace gui](https://github.com/Zeph1rr/MyDefence "Все файлы сервера")
-- [Организация компьютерных сетей](https://github.com/Yan-Minotskiy/network_config "Лабораторные работы по сетям 3 курс РТУ МИРЭА")
-- [Системы электронного документооборота](https://github.com/Zeph1rr/SAD)
+- [Операционные системы(linux)](https://github.com/Zeph1rr/LabsOS "Лабораторные работы по ОС 2 курс РТУ МИРЭА")
+- [My Defence Databace gui (postgreSQL/php)](https://github.com/Zeph1rr/MyDefence "Все файлы сервера")
+- [Организация компьютерных сетей(linux/cisco/mikrotik)](https://github.com/Yan-Minotskiy/network_config "Лабораторные работы по сетям 3 курс РТУ МИРЭА")
+- [Системы электронного документооборота(python3/sqlite3)](https://github.com/Zeph1rr/SAD)
+- [Методы и средства защиты информации(docker/docker-compose)](https://github.com/Zeph1rr/IBLabs)
 
 ### Courseworks:
-- [Курсовой проект по базам данных по теме "Учет преступлений в сфере информационных технологий"](https://github.com/Zeph1rr/WebCrime "Курсовой проект по бд")
+- [Курсовой проект по базам данных по теме "Учет преступлений в сфере информационных технологий"(postgreSQL, PHP)](https://github.com/Zeph1rr/WebCrime "Курсовой проект по бд")
