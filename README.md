@@ -16,10 +16,6 @@
 
 ## Navigation
 
-### Games
-- [Twenty points to win](https://github.com/Zeph1rr/TPTW-Setup "Game") and it's [source](https://github.com/Zeph1rr/TPTW-Code "Исходный код")
-
-
 ### Labs:
 - [Операционные системы(linux)](https://github.com/Zeph1rr/LabsOS "Лабораторные работы по ОС 2 курс РТУ МИРЭА")
 - [My Defence Databace gui (postgreSQL/php)](https://github.com/Zeph1rr/MyDefence "Все файлы сервера")
