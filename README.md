@@ -16,12 +16,8 @@
 
 ## Navigation
 
-
-### My site
-- [Мой сайт](https://www.zeph1rr.ru/)
-
 ### Games
-- [Twenty points to win](https://github.com/Zeph1rr/TPTW-Setup "Game") и [и ее исходный код](https://github.com/Zeph1rr/TPTW-Code "Исходный код")
+- [Twenty points to win](https://github.com/Zeph1rr/TPTW-Setup "Game") and it's [source](https://github.com/Zeph1rr/TPTW-Code "Исходный код")
 
 
 ### Labs:
