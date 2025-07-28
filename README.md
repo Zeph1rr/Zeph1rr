@@ -4,10 +4,9 @@
 
 ## About me
 
-- 👋 Hi, I’m Anton Grigorev, my nickname is Zeph1rr. I'm studying at the university and trying to make my skills in programming better.
-- 👀 I'm interested in all kinds of development.
-- 🌱 I'm currently learning various programming and layout languages, like python or HTML5
-- 📫 How to reach me:
+- Middle+ DevOps/SRE 
+- Has prograamming expierience in python (backend/bots), c# (Unity), JS(backend, frontend, bots)
+- How to reach me:
   - E-mail: grianton535@gmail.com
   - Telegram: @zeph1rr
 
