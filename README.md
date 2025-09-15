@@ -1,6 +1,6 @@
 # Information
 
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/ReactJS-00FFFF?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/NodeJS-00FF00?style=for-the-badge&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Kubernetes-0000FF?style=for-the-badge&logo=Kubernetes&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/NodeJS-00FF00?style=for-the-badge&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=Docker&logoColor=black"/> <img src="https://img.shields.io/badge/Kubernetes-0000FF?style=for-the-badge&logo=Kubernetes&logoColor=black"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/> 
 
 ## About me
 
