@@ -1,15 +1,22 @@
 <div align="center">
 
-<img src="https://i.imgur.com/W3F9YwL.jpeg" width="120" style="border-radius: 15%" />
+```
+███████╗███████╗██████╗ ██╗  ██╗ ██╗██████╗ ██████╗ 
+╚══███╔╝██╔════╝██╔══██╗██║  ██║███║██╔══██╗██╔══██╗
+  ███╔╝ █████╗  ██████╔╝███████║╚██║██████╔╝██████╔╝
+ ███╔╝  ██╔══╝  ██╔═══╝ ██╔══██║ ██║██╔══██╗██╔══██╗
+███████╗███████╗██║     ██║  ██║ ██║██║  ██║██║  ██║
+╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-## Grigoryev Anton — Moscow
+### Grigoryev Anton — Moscow
 
 ### `Middle+ DevOps / SRE` · `Python` · `Infrastructure` · `Automation`
 
-[![Telegram](https://img.shields.io/badge/@zeph1rr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zeph1rr)
-[![Email](https://img.shields.io/badge/grianton535@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grianton535@gmail.com)
-[![GitHub](https://img.shields.io/badge/Zeph1rr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zeph1rr)
-[![LinkedIn](https://img.shields.io/badge/zeph1rr-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2ExLjk5OCAxLjk5OCAwIDAgMS0yLTEuOTk3IDEuOTk4IDEuOTk4IDAgMCAxIDQgMCAxLjk5OCAxLjk5OCAwIDAgMS0yIDEuOTk3em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTMgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white)](https://www.linkedin.com/in/zeph1rr/)
+[![Telegram](https://badgen.net/badge/Telegram/@zeph1rr/2CA5E0?icon=telegram)](https://t.me/zeph1rr)
+[![Email](https://badgen.net/badge/Email/grianton535@gmail.com/EA4335)](mailto:grianton535@gmail.com)
+[![GitHub](https://badgen.net/badge/GitHub/Zeph1rr/black?icon=github)](https://github.com/Zeph1rr)
+[![LinkedIn](https://badgen.net/badge/LinkedIn/zeph1rr/0A66C2)](https://www.linkedin.com/in/zeph1rr/)
 
 </div>
 
